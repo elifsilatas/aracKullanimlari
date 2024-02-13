@@ -1,0 +1,17 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\bin\Debug\net6.0-windows\Homework_One.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\bin\Debug\net6.0-windows\Homework_One.deps.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\bin\Debug\net6.0-windows\Homework_One.runtimeconfig.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\bin\Debug\net6.0-windows\Homework_One.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\bin\Debug\net6.0-windows\Homework_One.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.AssemblyInfoInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.AssemblyInfo.cs
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\refint\Homework_One.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\Homework_One.genruntimeconfig.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_One\obj\Debug\net6.0-windows\ref\Homework_One.dll
